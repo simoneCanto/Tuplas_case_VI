@@ -1,0 +1,12 @@
+# Imprimindo as variáveis e seus tipos.
+print('t3 = ',t3, 'é do tipo', type(t3))
+print()
+print('t3[0] = ',t3[0],'é do tipo ', type(t3[0]))
+print()
+print('t3[1] = ',t3[1],'é do tipo ', type(t3[1]))
+print()
+print('t3[2] = ',t3[2],'é do tipo', type(t3[2]))
+print()
+print('t3[0:2] = ',t3[0:2],'é do tipo',type(t3[0:2]))
+print()
+print('t3[1:] = ',t3[1:],'é do tipo', type(t3[1:]))
