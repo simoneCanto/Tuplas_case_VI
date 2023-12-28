@@ -1,0 +1,4 @@
+# Somando
+soma = t2[0] + t2[1] + t2[2] + t2[3]
+# Imprimindo
+print(soma)
