@@ -1,0 +1,4 @@
+# Definindo a tupla
+t1 = ('lanche', 'batata', 'refri')
+# Imprimindo a tupla
+print(t1)
