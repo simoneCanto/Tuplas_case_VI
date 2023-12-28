@@ -1,0 +1,4 @@
+# Definindo a tupla
+t3 = ('Lanche', 10.9, 3, True)
+# Imprimindo a tupla
+print(t3)
