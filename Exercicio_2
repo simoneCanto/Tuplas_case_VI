@@ -1,0 +1,4 @@
+# Definindo a tupla
+t2 = (1, 3, 5, 7)
+# Imprimindo a tupla
+print(t2)
