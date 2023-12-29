@@ -1,0 +1,6 @@
+t1 = ('Lanche','Refri','Batata')
+
+for i in t1:
+  print('Temos no cardápio:{}'.format(i))
+
+print('Fim do cardápio!')
