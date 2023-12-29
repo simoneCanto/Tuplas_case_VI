@@ -1,0 +1,6 @@
+t1 = ('Lanche','Refri','Batata')
+
+for i, valor in enumerate(t1):
+  print('item {}: {}'.format(i, valor))
+
+print()
