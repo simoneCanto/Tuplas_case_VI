@@ -1,0 +1,12 @@
+t1 = ('Doce', 2.3, 'Bala ', 0.15, 'Pizza ', 28.9, 'Arroz ', 4.5, 'Paçoca ', 0.5, 'Pamonha', 5.4)
+
+print('-'*40)
+print('-'*15, 'Cardápio', '-'*15)
+print('-'*40)
+print(t1[0], '.'*31, t1[1])
+print(t1[2], '.'*29, t1[3])
+print(t1[4], '.'*28, t1[5])
+print(t1[6], '.'*29, t1[7])
+print(t1[8], '.'*28, t1[9])
+print(t1[10], '.'*28, t1[11])
+print('-'*40)
