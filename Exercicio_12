@@ -1,0 +1,8 @@
+t1 = ('Doce', 'Churrasco', 'Bala ', 'Tapioca', 'Pizza ', 'Feijão ',
+      'Arroz ', 'Açaí ', 'Paçoca ', 'Acarajé', 'Pamonha', 'Dobradinha', 'Rapadura')
+t1 = sorted(t1)
+x = input('Digite a comida preterida: ')
+
+print('A posição no cardápio é: {}'.format(t1.index(x)))
+print()
+print(t1)
